@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-todoaws-dev-130730-authRole",
+      "UnauthRoleArn": "arn:aws:iam::072748911387:role/amplify-todoaws-dev-130730-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::072748911387:role/amplify-todoaws-dev-130730-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-todoaws-dev-130730-deployment",
+      "UnauthRoleName": "amplify-todoaws-dev-130730-unauthRole",
+      "StackName": "amplify-todoaws-dev-130730",
+      "StackId": "arn:aws:cloudformation:eu-north-1:072748911387:stack/amplify-todoaws-dev-130730/df510980-0bf0-11ed-97be-06093b72247e",
+      "AmplifyAppId": "d1pu90ugnt0s5g"
+    },
+    "categories": {
+      "auth": {
+        "todoaws9d4431cc": {}
+      },
+      "function": {
+        "todoaws6b1069bd": {
+          "deploymentBucketName": "amplify-todoaws-dev-130730-deployment",
+          "s3Key": "amplify-builds/todoaws6b1069bd-56306350417357735056-build.zip"
+        }
+      }
+    }
+  }
+}

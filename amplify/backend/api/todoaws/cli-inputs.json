@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "todoaws",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "G:\\Projects\\ripeseed\\Learning\\AWS_Training\\todo_aws\\amplify\\backend\\api\\todoaws\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
